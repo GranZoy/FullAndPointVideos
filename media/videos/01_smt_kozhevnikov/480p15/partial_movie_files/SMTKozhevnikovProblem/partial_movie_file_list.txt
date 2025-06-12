@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Anatoly/PycharmProjects/FullAndPointVideos/media/videos/01_smt_kozhevnikov/480p15/partial_movie_files/SMTKozhevnikovProblem/1185818338_2228313636_1486896975.mp4'
+file 'file:C:/Users/Anatoly/PycharmProjects/FullAndPointVideos/media/videos/01_smt_kozhevnikov/480p15/partial_movie_files/SMTKozhevnikovProblem/624642324_669237495_2144237094.mp4'

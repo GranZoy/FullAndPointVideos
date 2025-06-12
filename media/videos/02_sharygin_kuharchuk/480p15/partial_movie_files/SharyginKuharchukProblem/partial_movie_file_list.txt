@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Anatoly/PycharmProjects/FullAndPointVideos/media/videos/02_sharygin_kuharchuk/480p15/partial_movie_files/SharyginKuharchukProblem/1185818338_4216259703_2452327432.mp4'
+file 'file:C:/Users/Anatoly/PycharmProjects/FullAndPointVideos/media/videos/02_sharygin_kuharchuk/480p15/partial_movie_files/SharyginKuharchukProblem/624642324_1798641222_2979257509.mp4'

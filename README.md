@@ -1,4 +1,4 @@
-# Geometric Proofs with Manim
+# Geometric Visualisations with Manim
 
 This project is available in:
 - [Русский] https://github.com/GranZoy/FullAndPointVideos/blob/master/Readme.ru.md

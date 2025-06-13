@@ -1,5 +1,8 @@
 # Geometric Proofs with Manim
 
+This project is available in:
+- [Русский] https://github.com/GranZoy/FullAndPointVideos/blob/master/Readme.ru.md
+
 This repository contains visual proofs of two geometric problems implemented using the Manim animation library.
 
 ## Problem 1: Trapezoid Inscribed in a Circle
